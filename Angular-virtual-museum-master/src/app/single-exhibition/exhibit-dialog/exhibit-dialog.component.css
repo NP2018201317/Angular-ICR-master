@@ -1,0 +1,26 @@
+ul {
+  list-style: none;
+  text-align: left;
+}
+ul li {
+  font-size: 20px;
+  padding: 10px;
+}
+img {
+  max-width: 500px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+h2 {
+  text-align: center;
+}
+.close-button {
+  float: right;
+  top: -24px;
+  right: -24px;
+}
+
+.card {
+  max-width: 1000px;
+}
